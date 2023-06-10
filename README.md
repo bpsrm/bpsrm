@@ -1,5 +1,7 @@
 ### Hi there! call me bank👋
 
+- 🔭 I’m currently studying at Silpakorn University.
+- 🌱 I’m currently learning Node.js, CodeIgniter4 Framework.
 <!--
 **bpsrm/bpsrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
