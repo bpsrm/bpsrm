@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bank</h1>
-<h3 align="center">Hello! I'm Ponpitak Sirimart, a 22-year-old soon-to-be university graduate with a strong passion for Frontend Development. I'm eager to kickstart my career in this field and create amazing user experiences through innovative web development.</h3>
+<h3 align="left">Hello! I'm Ponpitak Sirimart, a 22-year-old soon-to-be university graduate with a strong passion for Frontend Development. I'm eager to kickstart my career in this field and create amazing user experiences through innovative web development.</h3>
 
 - 🔭 I’m currently studying on [Silpakorn University](https://www.su.ac.th/th/index.php)
 
